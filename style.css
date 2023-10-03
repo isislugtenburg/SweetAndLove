@@ -62,5 +62,9 @@ footer{
     justify-content: center;
     align-items: center;
     display: flex;
-    
+    height: 300px;
+}
+
+.img-section{
+    margin: 10px;
 }
