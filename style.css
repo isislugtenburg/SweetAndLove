@@ -62,7 +62,8 @@ footer{
     justify-content: center;
     align-items: center;
     display: flex;
-    height: 300px;
+    height: 400px;
+    width: 1525px;
 }
 
 .img-section{
@@ -76,5 +77,5 @@ footer{
 }
 h3{
     border: 1px solid #FFBABA
-    back-ground-color:
+    
 }
